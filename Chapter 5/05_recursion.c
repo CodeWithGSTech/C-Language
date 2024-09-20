@@ -16,7 +16,7 @@ int factorial(int n){
 }
 
 int main(){
-    int a = 6;
+    int a = 8;
     printf("The factorial of %d is %d", a, factorial(a));
     return 0;
 }
